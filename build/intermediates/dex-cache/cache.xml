@@ -1,2 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/dharmendra/GitProject/ImageUtill/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/dharmendra/GitProject/ImageUtill/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_aa4e0dc9d095df5520e668e7c9c5cde5a0d1da43.jar" />
+    </item>
+    <item
+        jar="/home/dharmendra/GitProject/ImageUtill/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/home/dharmendra/GitProject/ImageUtill/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_8b7e114d0dd631f384c3e8534dc5209c250da2c7.jar" />
+    </item>
+    <item
+        jar="/home/dharmendra/DeveloperConsole/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/dharmendra/GitProject/ImageUtill/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_943adf04ac672363988e9194686ab42b0df189ef.jar" />
+    </item>
+    <item
+        jar="/home/dharmendra/GitProject/ImageUtill/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/dharmendra/GitProject/ImageUtill/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_cfb387c6162d1fcdd842b9ccf6453fb0d99ac4a9.jar" />
+    </item>
+    <item
+        jar="/home/dharmendra/GitProject/ImageUtill/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/home/dharmendra/GitProject/ImageUtill/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_16a69710ac5f0e6ba48a6b5805bd9719e63f4e4b.jar" />
+    </item>
+    <item
+        jar="/home/dharmendra/GitProject/ImageUtill/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/dharmendra/GitProject/ImageUtill/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_3d55f562a0d17490806f3fce875480b876c92187.jar" />
+    </item>
+    <item
+        jar="/home/dharmendra/GitProject/ImageUtill/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/dharmendra/GitProject/ImageUtill/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_f77b5ccab87ff99ea14083d1050d6fdfb255bdab.jar" />
+    </item>
+    <item
+        jar="/home/dharmendra/GitProject/ImageUtill/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/dharmendra/GitProject/ImageUtill/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_3ea600e2275688432483db85a86e9215d771d283.jar" />
+    </item>
+
+</items>
